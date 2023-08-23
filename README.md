@@ -8,7 +8,8 @@ Yannis Nevers
 Post-doctoral researcher; OMArk's main developer  
 University of Lausanne and Swiss Institute of Bioinformatics
 
-Sina Majidian  
+[Sina Majidian](https://sinamajidian.github.io/)
+
 Post-doctoral researcher  
 University of Lausanne and Swiss Institute of Bioinformatics
 

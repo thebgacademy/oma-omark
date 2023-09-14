@@ -1,0 +1,15 @@
+#The selected clade was Artiodactyla
+#Number of conserved HOGs is: 13050
+#Results on conserved HOGs is:
+#S:Single:S, D:Duplicated[U:Unexpected,E:Expected],M:Missing
+S:10742,D:1351[U:1302,E:49],M:957
+S:82.31%,D:10.35%[U:9.98%,E:0.38%],M:7.33%
+#On the whole proteome, there are 20730 proteins
+#Of which:
+#A:Consistent (taxonomically)[P:Partial hits,F:Fragmented], I: Inconsistent (taxonomically)[P:Partial hits,F:Fragmented], C: Likely Contamination[P:Partial hits,F:Fragmented], U: Unknown 
+A:19660[P:2426,F:2802],I:1038[P:202,F:374],C:0[P:0,F:0],U:32
+A:94.84%[P:11.70%,F:13.52%],I:5.01%[P:0.97%,F:1.80%],C:0.00%[P:0.00%,F:0.00%],U:0.15%
+#From HOG placement, the detected species are:
+#Clade	NCBI taxid	Number of associated proteins	Percentage of proteome's total
+Cetacea	-1	20698	99.85%
+

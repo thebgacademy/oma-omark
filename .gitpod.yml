@@ -5,8 +5,8 @@ tasks:
 - name: Get the OMAMer database
   init: |
     cd /workspace
-    curl -L -O "https://omabrowser.org/All/LUCA.h5"
-
+    curl -L -O "https://oma-stage.vital-it.ch/All/LUCA.h5"
+    mv LUCA.h5 oma-omark/working_dir/DB/
 - name: install mamba and omark
   command: |
     cd /workspace

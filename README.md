@@ -35,3 +35,7 @@ By the end of this session the participant will be able to:
     Please also read the description carefully to see if this session is relevant to you.
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
+
+For this session, the written material can be found on https://oma-stage.vital-it.ch/oma/academy/BGA\_session
+
+Please use [Gitpod](https://gitpod.io/#https://github.com/BGAcademy23/oma-omark) for the command-line exercices.

@@ -21,7 +21,7 @@ tasks:
   command: |
     cd /workspace/oma-omark/working_dir
     /workspace/conda/bin/conda init bash
-    echo 'condaa activate omark' >> ${HOME}/.bashrc
+    echo 'conda activate omark' >> ${HOME}/.bashrc
     source ${HOME}/.bashrc 
 vscode:
   extensions:

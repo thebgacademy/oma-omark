@@ -18,10 +18,10 @@ tasks:
     mamba create -n omark -c conda-forge python=3.9 -y
     mamba activate omark
     pip install omark
-  command: | 
+  command: |
     cd /workspace/oma-omark/working_dir
-    echo 'mamba activate omark' >> ${HOME}/.bashrc
-    source ${HOME}/.bashrc
+    /workspace/conda/bin/conda init bash
+    source ${HOME}/.bashrc 
 vscode:
   extensions:
     - anwar.papyrus-pdf

@@ -18,7 +18,7 @@ tasks:
     mamba create -n omark -c conda-forge python=3.9 -y
     mamba activate omark
     pip install omark
-  command: :
+  command: | 
     cd /workspace/oma-omark/working_dir
     echo 'mamba activate omacademy' >> ${HOME}/.bashrc
     source ${HOME}/.bashrc

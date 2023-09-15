@@ -20,7 +20,7 @@ tasks:
     pip install omark
   command: | 
     cd /workspace/oma-omark/working_dir
-    echo 'mamba activate omacademy' >> ${HOME}/.bashrc
+    echo 'mamba activate omark' >> ${HOME}/.bashrc
     source ${HOME}/.bashrc
 vscode:
   extensions:

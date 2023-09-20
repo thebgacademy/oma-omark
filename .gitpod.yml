@@ -2,22 +2,24 @@ image: gitpod/workspace-base
 
 tasks:
 
-- name: Get the OMAMer database
+- name: Get OMAMer database
   init: |
     cd /workspace
     curl -L -O "https://oma-stage.vital-it.ch/All/LUCA.h5"
     mv LUCA.h5 oma-omark/working_dir/DB/
-- name: install mamba and omark
-  init: |
+
+    # install mamba
     cd /workspace
     curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
     bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Mambaforge-$(uname)-$(uname -m).sh
     /workspace/conda/bin/mamba init bash
 
+    # install omark
     source ${HOME}/.bashrc
     mamba create -n omark -c conda-forge python=3.9 -y
     mamba activate omark
     pip install omark
+
   command: |
     cd /workspace/oma-omark/working_dir
     /workspace/conda/bin/conda init bash

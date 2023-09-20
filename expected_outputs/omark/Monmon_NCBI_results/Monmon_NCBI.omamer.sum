@@ -1,0 +1,15 @@
+#The selected clade was Artiodactyla
+#Number of conserved HOGs is: 13050
+#Results on conserved HOGs is:
+#S:Single:S, D:Duplicated[U:Unexpected,E:Expected],M:Missing
+S:12649,D:249[U:200,E:49],M:152
+S:96.93%,D:1.91%[U:1.53%,E:0.38%],M:1.16%
+#On the whole proteome, there are 18377 proteins
+#Of which:
+#A:Consistent (taxonomically)[P:Partial hits,F:Fragmented], I: Inconsistent (taxonomically)[P:Partial hits,F:Fragmented], C: Likely Contamination[P:Partial hits,F:Fragmented], U: Unknown 
+A:18038[P:705,F:302],I:339[P:51,F:48],C:0[P:0,F:0],U:0
+A:98.16%[P:3.84%,F:1.64%],I:1.84%[P:0.28%,F:0.26%],C:0.00%[P:0.00%,F:0.00%],U:0.00%
+#From HOG placement, the detected species are:
+#Clade	NCBI taxid	Number of associated proteins	Percentage of proteome's total
+Tursiops truncatus	-1	18377	100.00%
+

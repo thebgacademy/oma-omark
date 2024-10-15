@@ -12,7 +12,7 @@ tasks:
     cd /workspace
     wget "https://github.com/conda-forge/miniforge/releases/download/24.3.0-0/Mambaforge-24.3.0-0-Linux-x86_64.sh"
     bash Mambaforge-24.3.0-0-Linux-x86_64.sh -b -p /workspace/mambaforge && rm Mambaforge-24.3.0-0-Linux-x86_64.sh
-    /workspace/conda/bin/mamba init bash
+    /workspace/mambaforge/bin/mamba init bash
 
     # install omark
     source ${HOME}/.bashrc

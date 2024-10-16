@@ -6,14 +6,14 @@ COMPLETENESS ASSESSMENT
 #Ancestral genes used for this benchmark were in single copy in the selected ancestral lineage, but no assumption is made regarding their propensity to duplicate - they are not universal single copy genes. This benchmark reports the proportion of those genes that are found in multiple copies in target proteomes, and whether it corresponds to a known duplication event in descendants of this gene family (Expected) or not (Unexpected).
 
 The clade used was: Artiodactyla
-Number of conserved HOGs: 13050
+Number of conserved HOGs: 13044
 
 #Results on conserved HOGs:
-Single: 10742 (82.31%)
-Duplicated: 1351 (10.35%)
-Duplicated, Unexpected: 1302 (9.98%)
-Duplicated, Expected: 49 (0.38%)
-Missing: 957 (7.33%)
+Single: 10840 (83.10%)
+Duplicated: 1273 (9.76%)
+Duplicated, Unexpected: 1236 (9.48%)
+Duplicated, Expected: 37 (0.28%)
+Missing: 931 (7.14%)
 
 
 CONSISTENCY ASSESSMENT
@@ -30,14 +30,14 @@ CONSISTENCY ASSESSMENT
 Number of proteins in the whole proteome: 20730
 
 #Consistent lineage placements
-Total Consistent: 19660 (94.84%)
-Consistent, partial hits: 2426 (11.70%)
-Consistent, fragmented: 2802 (13.52%)
+Total Consistent: 19562 (94.37%)
+Consistent, partial hits: 2070 (9.99%)
+Consistent, fragmented: 2653 (12.80%)
 
 #Inconsistent lineage placements
-Total Inconsistent: 1038 (5.01%)
-Inconsistent, partial hits: 202 (0.97%)
-Inconsistent, fragmented: 374 (1.80%)
+Total Inconsistent: 613 (2.96%)
+Inconsistent, partial hits: 143 (0.69%)
+Inconsistent, fragmented: 147 (0.71%)
 
 #Contaminants
 Total Contaminants: 0 (0.00%)
@@ -45,7 +45,7 @@ Contaminants, partial hits: 0 (0.00%)
 Contaminants, fragmented: 0 (0.00%)
 
 #Unknown
-Total Unknown: 32 (0.15%)
+Total Unknown: 555 (2.68%)
 
 
 SPECIES COMPOSITION
@@ -58,6 +58,6 @@ SPECIES COMPOSITION
 
 #Main species
 Clade: Cetacea
-Number of associated query proteins: 20698 (99.85%)
+Number of associated query proteins: 20175 (97.32%)
 
 

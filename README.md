@@ -6,14 +6,14 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 
 ## Session Leader(s)
 
-[Yannis Nevers](https://scholar.google.co.uk/citations?user=glh8MOYAAAAJ&hl=en) 
-Post-doctoral researcher; OMArk's main developer  
-University of Lausanne and Swiss Institute of Bioinformatics
+[Yannis Nevers](https://scholar.google.com/citations?user=glh8MOYAAAAJ&hl=en&oi=ao)  
+Junior Professor; OMArk's main developer  
+University of Strasbourg; Formerly University of Lausanne and Swiss Institute of Bioinformatics
 
 [Sina Majidian](https://sinamajidian.github.io/)
-
 Post-doctoral researcher  
-University of Lausanne and Swiss Institute of Bioinformatics
+Johns Hopkins University; Formerly University of Lausanne and Swiss Institute of Bioinformatics
+
 
 ## Description
 
@@ -38,6 +38,8 @@ By the end of this session the participant will be able to:
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
 
-For this session, the written material can be found on https://oma-stage.vital-it.ch/oma/academy/BGA\_session
+For this session, the written material can be found on https://omabrowser.org/oma/academy/module/BGA\_session
 
-Please use [Gitpod](https://gitpod.io/#https://github.com/BGAcademy23/oma-omark) for the command-line exercices.
+Please use [Gitpod](https://gitpod.io/#https://github.com/thebgacademy/oma-omark) for the command-line exercices.
+
+

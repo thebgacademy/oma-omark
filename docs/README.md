@@ -1,10 +1,7 @@
 # OMA and OMArk for homology exploration and gene annotation quality control
 
-This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
+This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org/BGA24)
 
-## [ZOOM LINK for 21 Sep 08:00 UTC](https://sanger.zoom.us/j/94252641609?pwd=YWZSaFRKSkFGM01HWFR6aDd6MHhJQT09)
-
-**[Add to calendar](https://www.addevent.com/dir/?client=alorivImKzRucZeDgmNK105600&start=Thu+21+Sep+2023+08:00&end=Thu+21+Sep+2023+10:00&title=BGA23+OMA+and+OMArk+for+homology+exploration+and+gene+annotation+quality+control&location=Online%2C+Zoom&timezone=Africa%2FMonrovia&organizer=Biodiversity+Genomics+Academy+2023&description=https%3A%2F%2Fsanger.zoom.us%2Fj%2F94252641609%3Fpwd%3DYWZSaFRKSkFGM01HWFR6aDd6MHhJQT09%5Cn%5Cnhttps%3A%2F%2FBGA23.org%2Foma-omark)** - and check the time in your own time zone
 
 ## Session Leader(s)
 

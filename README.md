@@ -6,7 +6,7 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 
 ## Session Leader(s)
 
-Yannis Nevers  
+[Yannis Nevers](https://scholar.google.co.uk/citations?user=glh8MOYAAAAJ&hl=en) 
 Post-doctoral researcher; OMArk's main developer  
 University of Lausanne and Swiss Institute of Bioinformatics
 

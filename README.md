@@ -4,6 +4,16 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/oma-omark) 
 
+
+The session is now available on [YouTube](https://www.youtube.com/watch?v=roETPpUbBjY).
+ 
+OMArk is published in [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02147-w).
+  
+Check out OMArk [GitHub page](https://github.com/DessimozLab/OMArk).
+
+OMArk is also available [online](https://omark.omabrowser.org/). 
+
+
 ## Session Leader(s)
 
 [Yannis Nevers](https://scholar.google.com/citations?user=glh8MOYAAAAJ&hl=en&oi=ao)  

@@ -5,13 +5,8 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/oma-omark) 
 
 
-The session is now available on [YouTube](https://www.youtube.com/watch?v=roETPpUbBjY).
- 
-OMArk is published in [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02147-w).
-  
-Check out OMArk [GitHub page](https://github.com/DessimozLab/OMArk).
+The session is now available on [YouTube](https://www.youtube.com/watch?v=roETPpUbBjY). OMArk is published in [Nature Biotechnology](https://www.nature.com/articles/s41587-024-02147-w). OMArk is also available [online](https://omark.omabrowser.org/). Check out OMArk [GitHub page](https://github.com/DessimozLab/OMArk).
 
-OMArk is also available [online](https://omark.omabrowser.org/). 
 
 
 ## Session Leader(s)
@@ -21,6 +16,7 @@ Junior Professor; OMArk's main developer
 University of Strasbourg; Formerly University of Lausanne and Swiss Institute of Bioinformatics
 
 [Sina Majidian](https://sinamajidian.github.io/)
+
 Post-doctoral researcher  
 Johns Hopkins University; Formerly University of Lausanne and Swiss Institute of Bioinformatics
 
